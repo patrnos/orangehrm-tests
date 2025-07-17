@@ -13,7 +13,7 @@ Repozytorium zawiera pełną dokumentację oraz dowody realizacji testów manual
 | screenshots/     | Podfolder w obrębie błędu – przechowuje zrzuty ekranu ilustrujące wystąpienie defektu.                               |
 | video/           | Podfolder w obrębie błędu – zawiera nagrania (MP4, GIF) pokazujące przebieg błędu lub sposób odtworzenia.            |
 | TC-....md        | Plik Markdown z opisem błędu: kroki do odtworzenia, rezultat oczekiwany i rzeczywisty, priorytet.                    |
-| **test_cases/**  | **Przypadki testowe** – szczegółowe opisy przypadków testowych (manualne i automatyczne, pozytywne i negatywne).     |
+| **test_cases/**  | **Przypadki testowe** – szczegółowe opisy przypadków testowych (manualne pozytywne i negatywne).     |
 | **README.md**    | Plik z głównym opisem repozytorium, cyklem pracy, zasadami zgłaszania oraz opisem struktury folderów.                |
 
 ---
